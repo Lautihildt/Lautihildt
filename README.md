@@ -6,9 +6,9 @@
 
 I’m a Data Science student at the University of Buenos Aires, in the early stages of my career, and I’m committed to learning the skills I need to enter the workforce when I feel ready. Currently, I’m learning Python, SQL, and Power BI, with a focus on data analysis and visualization.
 - 🌱 I’m currently learning ...
-  -Python (for data analytics)
-  -SQL (through the course "SQL - Complete Database Course - From Zero to Advanced" by Pablo Tilotta)
-  -Power BI
+  - Python (for data analytics)
+  - SQL (through the course "SQL - Complete Database Course - From Zero to Advanced" by Pablo Tilotta)
+  - Power BI
 
 I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
