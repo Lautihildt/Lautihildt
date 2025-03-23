@@ -17,3 +17,4 @@ I’m a Data Science student at the University of Buenos Aires, in the early sta
 - 📧 Reach out to me at: <a href="lautarohildt43@gmail.com">lautarohildt43@gmail.com</a> 
   
 # 💻 Tech Stack:
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
