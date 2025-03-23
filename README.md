@@ -16,3 +16,4 @@ I’m a Data Science student at the University of Buenos Aires, in the early sta
 - 🔗 Connect with me on LinkedIn: www.linkedin.com/in/lautarohildt
 - 📧 Reach out to me at: <a href="lautarohildt43@gmail.com">lautarohildt43@gmail.com</a> 
   
+# 💻 Tech Stack:
