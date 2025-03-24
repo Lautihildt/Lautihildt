@@ -24,6 +24,6 @@ I’m a Data Science student at the University of Buenos Aires, in the early sta
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/-SciPy-8CAAE6?logo=SciPy&logoColor=fff">
-  <img src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python">
+  <img src="https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white">
+  <img src="https://img.shields.io/badge/matplotlib-3.9.1-blue">
 
